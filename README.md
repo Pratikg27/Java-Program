@@ -1,2 +1,2 @@
 # Java-Program
-Author - Pratik Gunjal
+Author - Pratik Gunjal (PG)
